@@ -1,0 +1,2 @@
+def pingenerate():
+def pinupdate():
